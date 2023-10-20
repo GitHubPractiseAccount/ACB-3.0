@@ -1,4 +1,4 @@
 #Version 2
 from fun import fun
 fun()
-# LED state = 2
+# LED state = 1
